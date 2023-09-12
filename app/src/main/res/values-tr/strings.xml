@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fashion</string>
+    <string name="yaziBaslik">MODA</string>
+    <string name="yaziOn">Kadın Moda</string>
+    <string name="kategori1">Gömlek</string>
+    <string name="kategori2">T-shirt</string>
+    <string name="kategori3">Kapüşonlular</string>
+    <string name="kategori4">+136 Kategori</string>
+    <string name="butonYazi">BAŞLA</string>
+</resources>

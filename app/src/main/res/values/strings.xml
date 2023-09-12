@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fashion</string>
+    <string name="yaziBaslik">FASHION</string>
+    <string name="yaziOn">Woman Fashion</string>
+    <string name="kategori1">Shirt</string>
+    <string name="kategori2">T-shirts</string>
+    <string name="kategori3">Hoodies</string>
+    <string name="kategori4">136+ Categories</string>
+    <string name="butonYazi">Get Started</string>
+</resources>
